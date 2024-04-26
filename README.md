@@ -1,4 +1,4 @@
-![image](https://prince-monga.github.io/Calculator/)# Calculator
+![image]('https://prince-monga.github.io/Calculator/')# Calculator
 
 
 using css and js 
